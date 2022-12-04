@@ -1,0 +1,2 @@
+# minicad
+Java project
